@@ -22,13 +22,13 @@
 <h2>⚡️ Where to find me</h2>
 <p>
     <a target="_blank" href="https://x.com/MinhHai140124" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="  X  " />
+        <img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Kweri" />
     </a>
     <a target="_blank" href="https://www.facebook.com/phamminhhai.user" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Facebook" />
+        <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Phạm Minh Hải" />
     </a>
     <a target="_blank" href="https://www.youtube.com/@bakarina2992" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="Youtube" />
+        <img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="Bakarina" />
     </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=minhhai140124&show_icons=true&locale=en" alt="minhhai140124" /></p>

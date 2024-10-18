@@ -13,6 +13,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
 <a target="_blank" href="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif">
     <img src="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif" alt="Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần" width="400"/>
 </a>

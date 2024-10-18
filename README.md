@@ -18,7 +18,7 @@
         <a target="_blank" href="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif">
             <img src="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif" alt="Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần" width="400"/>
         </a>
-        <p>Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần</p>
+        Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần
 </ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>

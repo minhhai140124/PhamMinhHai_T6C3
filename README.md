@@ -22,7 +22,6 @@
         <p>Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần</p>
     </li>
 </ul>
-
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/Kweri" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>

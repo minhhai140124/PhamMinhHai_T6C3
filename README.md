@@ -22,7 +22,7 @@
 <h2>⚡️ Where to find me</h2>
 <p>
     <a target="_blank" href="https://x.com/MinhHai140124" style="display: inline-block;">
-        <img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" text="Kweri" />
+        <img src="https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Kweri" />
     </a>
     <a target="_blank" href="https://www.facebook.com/phamminhhai.user" style="display: inline-block;">
         <img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="Phạm Minh Hải" />

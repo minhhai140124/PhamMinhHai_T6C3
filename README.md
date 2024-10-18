@@ -34,6 +34,8 @@
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
+
+<p>Chữ ký của Thầy Khoa: NTKhoa87</p>
 <p>
 <a href="https://www.ko-fi.com/kweri">
 <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="160" alt="ko-fi" />

@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Minh Hải</h1>
-<p>Tôi là sinh viên của trường Đại học HUFLIT - Ngoại Ngữ và Tin Học</p>
+<p>👨‍💻 Tôi là sinh viên của trường Đại học HUFLIT - Ngoại Ngữ và Tin Học</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>

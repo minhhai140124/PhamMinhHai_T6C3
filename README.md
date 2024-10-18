@@ -15,12 +15,10 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul style="list-style: none;">
-    <li>
         <a target="_blank" href="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif">
             <img src="https://i.pinimg.com/originals/63/f5/57/63f55705bef9306ed18691ee39bda56d.gif" alt="Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần" width="400"/>
         </a>
         <p>Hành trình Code Website Bán hàng tạp hóa 24h trong 5 tuần</p>
-    </li>
 </ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
